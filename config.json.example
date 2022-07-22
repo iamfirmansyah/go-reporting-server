@@ -1,0 +1,6 @@
+{
+    "MYSQL_CONNECTION": "root:@tcp(127.0.0.1)/{databaseName}",
+    "PORT": 8008,
+    "TELEGRAM_BOT_ID": "",
+    "TELEGRAM_CHAT_ID": ""
+}
